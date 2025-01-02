@@ -1,9 +1,9 @@
 ## ✨ **Hello there!!** ✨
 Link to my website is [here](https://karixir.github.io/).
 
-Link to forked repository is [here](https://github.com/karixir/UQ_tutorial_code)
+Link to forked repository is [here](https://github.com/karixir/UQ_tutorial_code).
 
-Link to a website with article is [here](https://math.paperswithcode.com/paper/taming-uncertainty-in-a-complex-world-the)
+Link to a website with article is [here](https://math.paperswithcode.com/paper/taming-uncertainty-in-a-complex-world-the).
 
 **What sparks joy in my life:**
 
